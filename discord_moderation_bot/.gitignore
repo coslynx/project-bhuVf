@@ -1,0 +1,39 @@
+# discord_moderation_bot/.gitignore
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment
+venv
+
+# Ignore any compiled files
+*.exe
+*.o
+*.so
+
+# Ignore logs
+logs
+
+# Ignore database files
+db.sqlite
+
+# Ignore configuration files
+config.ini
+
+# Ignore user-specific files
+*.env
+
+# Ignore cache files
+.cache
+
+# Ignore IDE specific files
+.vscode
+.idea
+
+# Ignore package files
+__pycache__
+
+# Ignore any temp files
+*.tmp
+
+# Ignore any backup files
+*.bak
